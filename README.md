@@ -20,6 +20,3 @@ Soil Mosture Sensor With Arduino And I2C LCD.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgments
-Thanks to [Peter Dalmaris](https://github.com/futureshocked) for the inspiriation.
